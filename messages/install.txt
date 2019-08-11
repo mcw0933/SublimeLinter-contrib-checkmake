@@ -1,6 +1,6 @@
-SublimeLinter-contrib-__linter__
+SublimeLinter-contrib-checkmake
 -------------------------------
-This linter plugin for SublimeLinter provides an interface to __linter__.
+This linter plugin for SublimeLinter provides an interface to checkmake, a linter for Makefiles: https://github.com/mrtazz/checkmake.
 
 For more information, please see:
-https://github.com/__user__/SublimeLinter-contrib-__linter__
+https://github.com/mcw0933/SublimeLinter-contrib-checkmake
